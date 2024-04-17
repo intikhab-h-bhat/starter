@@ -5,9 +5,11 @@
 1. Create Repositary
 2. Add desription
 3. Select the public radio button
-4. select the checkbox "==Add a README file=="
-5. In .gitignore dropdown select "VisualStudio"
-6. In the choose a licence dropdown select "MIT License"
+4. select the checkbox "<mark>**Add a README file**</mark>"
+5. In .gitignore dropdown select "<mark>**VisualStudio**</mark>"
+6. In the choose a licence dropdown select "<mark>**MIT License**</mark>"
 7. Then click on Create repositary button
-   
+
    See image below
+
+![How to create new repositary](/image.png)
