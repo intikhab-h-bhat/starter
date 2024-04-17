@@ -28,9 +28,10 @@ See image below
 
 Step 3
 
-### write some ode in **index.html** , **script.js** and **styles.css**
+### write  code in **index.html** , **script.js** and **styles.css**
 
 ## index.html
+
 ```<!DOCTYPE html>
 <html lang="en">
   <head>
@@ -57,11 +58,15 @@ Step 3
 </html>
 
 ```
+
 ## script.js
+
 ```
 console.log(`${Date()} :: This is a starter template for a simple web app.`);
 ```
+
 ## styles.css
+
 ```
 @import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@900&display=swap");
@@ -94,3 +99,20 @@ i {
 }
 
 ```
+
+---
+# Step 4
+
+## To publish website
+
+1. go to **settings**
+   
+   ![alt text](image-2.png)
+
+2. Then click on **pages** on the sidebar menu
+   
+   ![alt text](image-3.png)
+
+3. After that click on **GitHub Actions** dropdown
+   
+   ![alt text](image-4.png)
