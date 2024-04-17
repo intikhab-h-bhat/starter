@@ -4,12 +4,20 @@
 
 1. Create Repositary
 2. Add desription
-3. Select the public radio button
+3. Select the **public** radio button
 4. select the checkbox "<mark>**Add a README file**</mark>"
 5. In .gitignore dropdown select "<mark>**VisualStudio**</mark>"
 6. In the choose a licence dropdown select "<mark>**MIT License**</mark>"
-7. Then click on Create repositary button
+7. Then click on **Create repositary** button
 
    See image below
 
 ![alt text](image.png)
+
+## Step 2
+
+1. create folder "**src**"
+2. In this folder create  html file "**index.html**" javascriptfile "**script.js**" and css file "**styles.css**"
+   
+See image below
+![alt text](image-1.png)
