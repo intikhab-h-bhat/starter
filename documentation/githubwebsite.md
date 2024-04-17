@@ -101,18 +101,35 @@ i {
 ```
 
 ---
+
 # Step 4
 
 ## To publish website
 
 1. go to **settings**
-   
+
    ![alt text](image-2.png)
 
 2. Then click on **pages** on the sidebar menu
-   
+
    ![alt text](image-3.png)
 
 3. After that click on **GitHub Actions** dropdown
-   
+
    ![alt text](image-4.png)
+
+4. In dropdown click **Deploy from Branch**
+   
+   ![alt text](image-5.png)
+
+5. select the branch from where you want to publish site.
+   
+   ![alt text](image-6.png)
+
+6. After some time the website link will apear at the top.
+   
+   ![alt text](image-7.png)
+
+7. click the link to open the website.
+   
+   ![alt text](image-8.png)
