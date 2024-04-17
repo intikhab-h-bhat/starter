@@ -12,4 +12,4 @@
 
    See image below
 
-![How to create new repositary](/image.png)
+![alt text](image.png)
