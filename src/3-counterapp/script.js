@@ -20,7 +20,7 @@ buttons.addEventListener("click", (e) => {
 
 function setColor() {
     if (count.innerHTML > 0) {
-        count.style.color = "yellow";
+        count.style.color = "Blue";
     } else if (count.innerHTML < 0) {
         count.style.color = "orangered";
     } else {
