@@ -3,6 +3,7 @@ const buttons = document.querySelector(".buttons");
 
 buttons.addEventListener("click", (e) => {
     console.log(e.target.classList);
+    
 
     if (e.target.classList.contains("add")) {
         count.innerHTML++;
