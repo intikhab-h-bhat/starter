@@ -116,19 +116,24 @@ div {
 
 button.subtract {
   background-color: #135d66;
-  border: 2px;
-  box-shadow: 0 5px 15px #fff;
+  border: 1px solid;
+  /* box-shadow: 0 5px 15px #fff; */
+  border-color: #F5f5f5;
 }
 
 button.reset {
   background-color: #135d66;
   color: #1e8cfa;
-  box-shadow: 0 5px 15px #fff;
+  /* box-shadow: 0 5px 15px #fff; */
+  border: 1px solid;
+  border-color: #F5f5f5;
 }
 
 button.add {
   background-color: #135d66;
-  box-shadow: 0 5px 15px #fff;
+  /* box-shadow: 0 5px 15px #fff; */
+  border: 1px solid;
+  border-color: #F5f5f5;
 }
 
 .uphand-styles {
